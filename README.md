@@ -1,5 +1,3 @@
 # Guide
 
-Kør
-npm install
-npm start
+Kør npm install og derefter npm start
